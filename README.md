@@ -1,6 +1,9 @@
+<ZINE>
 <img width="551" height="788" alt="image" src="https://github.com/user-attachments/assets/6165940e-1fb5-4d81-9e86-503c6038dce4" />
+The cloud keyboard is a simple cloud-shaped 3x3 keyboard designed using KiCAD and Onshape. It connects with a USB, and runs a simple micropython code that prints a designated number on the coding shell for each key when pressed.
 
-Have you ever wanted a cute, personalizable keyboard? Introducing... the cloud keyboard! The cloud keyboard is a cute cloud-shaped keyboard with a 3D-printed case. The PCB has cute sketches on the silkscreen, and the PCB is controlled by a XIAO-ESP32-C3.
+## ***Inspiration~***
+I made this keyboard because I wanted a to build a personalized cute keyboard completely from scratch. It was my first ever PCB I ever designed, and it helped me learn a LOT. 
 
 ## ***Full Instructions~***
 
@@ -23,8 +26,6 @@ Have you ever wanted a cute, personalizable keyboard? Introducing... the cloud k
 3. Import micropython onto your ESP32 by uploading the ESP32_GENERIC_C3-20260406-v1.28.0.bin into the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/)(to start this, click the "connect" button on the upper right corner. no offset is needed.). 
 4. Run keys.py on Thonny after connecting to the ESP32 by selecting the suitable option on the lower left corner.
 
-## ***Inspiration~***
-I made this keyboard because I wanted a to make a personalized cute keyboard. It was my first ever PCB I ever designed, and it helped me learn a LOT. It's also always useful to have a keyboard that can perform quick shortcuts on the side.
 
 ## ***GALLERY~***
 <details>
