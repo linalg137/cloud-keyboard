@@ -38,6 +38,9 @@ I made this keyboard because I wanted a to build a personalized cute keyboard co
 
 <img width="539" height="303" alt="image" src="https://github.com/user-attachments/assets/b36119f6-1f06-4e04-8963-c042a19a32e7" />
 <img width="799" height="540" alt="image" src="https://github.com/user-attachments/assets/045d28ca-455b-4cb7-b8ee-a7835cb4b26d" />
-
-
 </details>
+
+## ***Credits~***
+This project used:
+- [KiCAD](https://www.kicad.org/) (for PCB design)
+- [Onshape](https://www.onshape.com/en/platform) (for case design) 
