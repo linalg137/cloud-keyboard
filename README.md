@@ -4,6 +4,7 @@ Have you ever wanted a cute, personalizable keyboard? Introducing... the cloud k
 
 ## ***Instructions~***
 First, solder the pieces together in their designated spots. You can use the .step file to see how it should look like in the end (battery cell optional). Make sure to sandwich the keys together with the top of the case, putting the keys in from the top. After you're done soldering it, plug the ESP32 in, download and upload the python files into the folder that pops up. This program will run a simple program that prints a designated number for each key in the coding cell.  
+To import micropython onto your ESP32, upload the ESP32_GENERIC_C3-20260406-v1.28.0.bin using the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/), this way, you can run keys.py. 
 
 ## ***Inspiration~***
 I made this keyboard because I wanted a to make a personalized cute keyboard. It was my first ever PCB I ever designed, and it helped me learn a LOT. It's also always useful to have a keyboard that can perform quick shortcuts on the side.
