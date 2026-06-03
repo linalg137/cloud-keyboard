@@ -1,6 +1,7 @@
 <ZINE>
 <img width="551" height="788" alt="image" src="https://github.com/user-attachments/assets/6165940e-1fb5-4d81-9e86-503c6038dce4" />
-The cloud keyboard is a simple cloud-shaped 3x3 keyboard designed using KiCAD and Onshape. It connects with a USB, and runs a simple micropython code that prints a designated number on the coding shell for each key when pressed.
+
+  The cloud keyboard is a simple cloud-shaped 3x3 keyboard designed using KiCAD and Onshape. It connects with a USB, and runs a simple micropython code that prints a designated number on the coding shell for each key when pressed.
 
 ## ***Inspiration~***
 I made this keyboard because I wanted a to build a personalized cute keyboard completely from scratch. It was my first ever PCB I ever designed, and it helped me learn a LOT. 
