@@ -33,6 +33,9 @@ I made this keyboard because I wanted a to build a personalized cute keyboard co
   <summary>3D model, PCB design, schematic, etc</summary>
 <img width="891" height="653" alt="image" src="https://github.com/user-attachments/assets/7323a848-ede7-4593-80b1-8ce7abd7586a" />
 <img width="1007" height="833" alt="image" src="https://github.com/user-attachments/assets/b3f32099-1b07-4e01-99a3-6a676b3562ed" />
+<img width="611" height="530" alt="image" src="https://github.com/user-attachments/assets/ee019a7c-021a-48af-a94d-387b3e85ad6d" />
+<img width="1206" height="944" alt="image" src="https://github.com/user-attachments/assets/4fb5d029-4b3e-4438-8c23-06951b1b728a" />
+<img width="1028" height="972" alt="image" src="https://github.com/user-attachments/assets/cda3773a-9294-4041-abb6-353bfcb9b1b3" />
 <img width="719" height="487" alt="image" src="https://github.com/user-attachments/assets/bac06c70-8b7d-4e91-b26e-29bfaa08ae4b" />
 <img width="738" height="744" alt="image" src="https://github.com/user-attachments/assets/43ed9a53-5819-492b-8f3b-27e9059a4014" />
 <img width="1281" height="924" alt="image" src="https://github.com/user-attachments/assets/d1daff77-2d7d-426e-9703-4416e9e301b2" />
