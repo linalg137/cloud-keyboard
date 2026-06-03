@@ -2,9 +2,26 @@
 
 Have you ever wanted a cute, personalizable keyboard? Introducing... the cloud keyboard! The cloud keyboard is a cute cloud-shaped keyboard with a 3D-printed case. The PCB has cute sketches on the silkscreen, and the PCB is controlled by a XIAO-ESP32-C3.
 
-## ***Instructions~***
-First, solder the pieces together in their designated spots. You can use the .step file to see how it should look like in the end (battery cell optional). Make sure to sandwich the keys together with the top of the case, putting the keys in from the top. After you're done soldering it, plug the ESP32 in, download and upload the python files into the folder that pops up. This program will run a simple program that prints a designated number for each key in the coding cell.  
-To import micropython onto your ESP32, upload the ESP32_GENERIC_C3-20260406-v1.28.0.bin using the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/), this way, you can run keys.py. 
+## ***Full Instructions~***
+
+**getting the pcb**
+1. go to https://jlcpcb.com/. click "get instant quote".
+2. download the gerber zip file from the pcb folder and upload it.
+3. you can change the color of the PCB if you'd like, but keep all the other settings the same.
+4. order your PCB by following the steps on the website.
+
+**getting the parts**
+1. To find all the suitable parts needed for this pcb, open the BOM file. This lists all the necessary parts needed for the PCB-- you'll see several links leading to product pages.
+
+**printing the case**
+1. download the STL files, or go open this onshape link: https://cad.onshape.com/documents/30ca1b2b31257d2650154877/w/6a6ce5b2935f39e9888c6e90/e/9cf32ad964649424d66e1c2f?renderMode=0&uiState=6a1fb2345d12723005a9a689.
+2. follow the directions on your own 3D printer's manufacturer's website/app to upload the STL files in and print them. support for the prints are not neeeded, as long as you have the models sitting on the correct side.
+
+**soldering and putting everything together**
+1. solder the pieces together in their designated spots. You can use the .step file to see how it should look like in the end (the battery cell is optional). Make sure to sandwich the keys together with the top of the case, putting the keys in from the top.
+2. After you're done soldering it, plug the ESP32 into your device using a USB-C.
+3. Import micropython onto your ESP32 by uploading the ESP32_GENERIC_C3-20260406-v1.28.0.bin into the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/)(to start this, click the "connect" button on the upper right corner. no offset is needed.). 
+4. Run keys.py on Thonny after connecting to the ESP32 by selecting the suitable option on the lower left corner.
 
 ## ***Inspiration~***
 I made this keyboard because I wanted a to make a personalized cute keyboard. It was my first ever PCB I ever designed, and it helped me learn a LOT. It's also always useful to have a keyboard that can perform quick shortcuts on the side.
