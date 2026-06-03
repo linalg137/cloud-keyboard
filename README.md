@@ -15,6 +15,8 @@ I made this keyboard because I wanted a to make a personalized cute keyboard. It
 <img width="1007" height="833" alt="image" src="https://github.com/user-attachments/assets/b3f32099-1b07-4e01-99a3-6a676b3562ed" />
 <img width="719" height="487" alt="image" src="https://github.com/user-attachments/assets/bac06c70-8b7d-4e91-b26e-29bfaa08ae4b" />
 <img width="738" height="744" alt="image" src="https://github.com/user-attachments/assets/43ed9a53-5819-492b-8f3b-27e9059a4014" />
+<img width="1281" height="924" alt="image" src="https://github.com/user-attachments/assets/d1daff77-2d7d-426e-9703-4416e9e301b2" />
+
 <img width="539" height="303" alt="image" src="https://github.com/user-attachments/assets/b36119f6-1f06-4e04-8963-c042a19a32e7" />
 <img width="799" height="540" alt="image" src="https://github.com/user-attachments/assets/045d28ca-455b-4cb7-b8ee-a7835cb4b26d" />
 
