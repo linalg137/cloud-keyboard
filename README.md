@@ -1,3 +1,5 @@
+<img width="553" height="789" alt="image" src="https://github.com/user-attachments/assets/b0d555fe-9223-497c-a048-aa7c9066ef16" />
+
 A cute cloud-shaped keyboard with a 3D-printed case!! The PCB has cute sketches on the silkscreen, and the PCB is controlled by a XIAO-ESP32-C3.
 
 ## ***how to use***
@@ -11,8 +13,9 @@ I made this keyboard simply because I wanted a to make a personalized cute keybo
   <summary>3D model, PCB design, schematic, etc</summary>
 <img width="891" height="653" alt="image" src="https://github.com/user-attachments/assets/7323a848-ede7-4593-80b1-8ce7abd7586a" />
 <img width="1007" height="833" alt="image" src="https://github.com/user-attachments/assets/b3f32099-1b07-4e01-99a3-6a676b3562ed" />
-<img width="1118" height="691" alt="image" src="https://github.com/user-attachments/assets/d1995f54-95f3-4af9-aa7f-7946c61bb925" />
-<img width="1079" height="551" alt="image" src="https://github.com/user-attachments/assets/fd5ec9ca-f581-459f-906d-894854ae0c38" />
-<img width="738" height="594" alt="image" src="https://github.com/user-attachments/assets/e6cfa2d3-07c2-4c99-be77-4367ec558fe0" />
+<img width="719" height="487" alt="image" src="https://github.com/user-attachments/assets/bac06c70-8b7d-4e91-b26e-29bfaa08ae4b" />
+<img width="539" height="303" alt="image" src="https://github.com/user-attachments/assets/b36119f6-1f06-4e04-8963-c042a19a32e7" />
+<img width="799" height="540" alt="image" src="https://github.com/user-attachments/assets/045d28ca-455b-4cb7-b8ee-a7835cb4b26d" />
+
 
 </details>
